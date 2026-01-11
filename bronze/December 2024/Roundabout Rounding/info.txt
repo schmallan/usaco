@@ -1,0 +1,6 @@
+1/11/26
+
+USACO 2024 December Contest, Bronze
+Problem 1. Roundabout Rounding
+
+https://usaco.org/index.php?page=viewproblem2&cpid=1443
